@@ -11,10 +11,10 @@ and get adb from https://developer.android.com/tools/releases/platform-tools pic
 Step 1 |
 plug the device into the device while in download mode
 
-Step 2
+Step 2 |
 open "Odin3_v3.14.4.exe" and make sure the device shows up
 
-Step 3
+Step 3 
 turn off auto reboot in options tabadd "EternityROM_v3.0_TWRP_OdinPack_N970F_2.tar" to slot AP and click "Start"
 
 Step 4
