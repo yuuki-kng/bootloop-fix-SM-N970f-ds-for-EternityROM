@@ -7,7 +7,7 @@ pre req
 download the drivers from Samsung at https://developer.samsung.com/android-usb-driver
 
 a̶n̶d̶ ̶g̶e̶t̶ ̶a̶d̶b̶ ̶f̶r̶o̶m̶ ̶h̶t̶t̶p̶s̶:̶/̶/̶d̶e̶v̶e̶l̶o̶p̶e̶r̶.̶a̶n̶d̶r̶o̶i̶d̶.̶c̶o̶m̶/̶t̶o̶o̶l̶s̶/̶r̶e̶l̶e̶a̶s̶e̶s̶/̶p̶l̶a̶t̶f̶o̶r̶m̶-̶t̶o̶o̶l̶s̶ ̶p̶i̶c̶k̶ ̶ ̶D̶o̶w̶n̶l̶o̶a̶d̶ ̶S̶D̶K̶ ̶P̶l̶a̶t̶f̶o̶r̶m̶-̶T̶o̶o̶l̶s̶ ̶f̶o̶r̶ ̶W̶i̶n̶d̶o̶w̶s̶ ̶e̶x̶t̶r̶a̶c̶t̶ ̶t̶h̶a̶t̶ ̶i̶n̶t̶o̶ ̶t̶h̶i̶s̶ ̶f̶o̶l̶d̶e̶r̶̶
-adb is now included in the files 
+ Adb is now included in the files 
 
 Step 1 |
 plug the device into the device while in download mode
