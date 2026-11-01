@@ -11,7 +11,10 @@ a̶n̶d̶ ̶g̶e̶t̶ ̶a̶d̶b̶ ̶f̶r̶o̶m̶ ̶h̶t̶t̶p̶s̶:̶/̶/̶d̶e�
  it is now all in releases v1.0.0
 
 grab the odin pack from https://gofile.io/d/2RwQqf password is kanging_not_good if there is one pick EternityROM_v3.0_TWRP_OdinPack_N970F.tar
- 
+
+Steps
+===================================================================================================================================================
+
 Step 1 |
 plug the device into the device while in download mode
 
@@ -36,4 +39,4 @@ if its powershell then .\adb devices to check if its connected if it is then .\a
 Step 8 |
 in twrp click install and find "APEX_Bootloop_Fix.zip" and click it and flash it and follow the steps
 
-========
+===================================================================================================================================================
