@@ -1,9 +1,13 @@
 # bootloop-fix-SM-N970f-ds-for-EternityROM
 simple fix for note 10 devices that runs EternityROM with bootloop issue from Apex
 this isn't made by me
+
 pre req
+
 download the drivers from Samsung at https://developer.samsung.com/android-usb-driver
+
 and get adb from https://developer.android.com/tools/releases/platform-tools pick  Download SDK Platform-Tools for Windows extract that into this folder
+
 Step 1
 plug the device into the device while in download mode
 Step 2
