@@ -39,4 +39,3 @@ if its powershell then .\adb devices to check if its connected if it is then .\a
 Step 8 |
 in twrp click install and find "APEX_Bootloop_Fix.zip" and click it and flash it and follow the steps
 
-===================================================================================================================================================
