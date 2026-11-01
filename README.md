@@ -20,16 +20,16 @@ turn off auto reboot in options tabadd "EternityROM_v3.0_TWRP_OdinPack_N970F_2.t
 Step 4 |
 it should say PASS! with green colour if it shows "fail" or anything like that re flash it to see if it still fails
 
-Step 5
+Step 5 |
 press power button + vol down when the screen turns off switch to power button + vol up if you see the twrp logo then continue to step 6
 
-Step 6
+Step 6 |
 run cmd in the directory that this is in e.g : C:\Users\sata\Downloads\(the folder you extracted it in)
 
-Step 7
+Step 7 |
 if its powershell then .\adb devices to check if its connected if it is then .\adb push "APEX_Bootloop_Fix.zip" /sdcard/
 
-Step 8 
+Step 8 |
 in twrp click install and find "APEX_Bootloop_Fix.zip" and click it and flash it and follow the steps
 
 ========
