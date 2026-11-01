@@ -8,7 +8,7 @@ download the drivers from Samsung at https://developer.samsung.com/android-usb-d
 
 and get adb from https://developer.android.com/tools/releases/platform-tools pick  Download SDK Platform-Tools for Windows extract that into this folder
 
-Step 1
+Step 1 |
 plug the device into the device while in download mode
 
 Step 2
