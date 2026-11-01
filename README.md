@@ -17,7 +17,7 @@ open "Odin3_v3.14.4.exe" and make sure the device shows up
 Step 3 |
 turn off auto reboot in options tabadd "EternityROM_v3.0_TWRP_OdinPack_N970F_2.tar" to slot AP and click "Start"
 
-Step 4
+Step 4 |
 it should say PASS! with green colour if it shows "fail" or anything like that re flash it to see if it still fails
 
 Step 5
